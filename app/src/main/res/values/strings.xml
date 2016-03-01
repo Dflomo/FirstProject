@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">applicationProject</string>
+    <string name="action_settings">Transmit Data</string>
+    <string ID="line" name="line">"Click the Button"</string>
+    <string ID="Send" name="Send">Send</string>
+
+
+
+</resources>
